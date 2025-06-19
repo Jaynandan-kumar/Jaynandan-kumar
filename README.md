@@ -4,7 +4,7 @@
 ### 💻 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,bash,powershell,django,flask,mysql,sqlite,vercel,azure,figma,github,arduino" />
+  <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,bash,powershell,django,flask,mysql,sqlite,vercel,azure,figma,github,arduino" />
 </p>
 
 ---
