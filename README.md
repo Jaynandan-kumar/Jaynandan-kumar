@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Jaynandan-kumar/Jaynandan-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💻 Tech Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css,bash,powershell,django,flask,mysql,sqlite,vercel,azure,figma,github,arduino" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaynandan&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynandan&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.instagram.com/your_instagram/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="35px"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your_linkedin/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="35px"/>
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.icons8.com/color/48/gmail.png" width="35px"/>
+  </a>
+</p>
+
+---
+
+### ✨ Terminal Quote
+
+```bash
+// "Code never lies, comments sometimes do."
+// — Jaynandan
