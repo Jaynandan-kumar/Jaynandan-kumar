@@ -15,7 +15,7 @@
 
 ### 🌐 Connect With Me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaynandan777)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaynandan-kumar)
 
 ---
@@ -76,7 +76,7 @@
   <a href="https://www.linkedin.com/in/your_linkedin/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" width="35px"/>
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:jaynandan494@email.com">
     <img src="https://img.icons8.com/color/48/gmail.png" width="35px"/>
   </a>
 </p>
