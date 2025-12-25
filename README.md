@@ -51,12 +51,12 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jaynandan-kumar&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynandan-kumar&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
-</p>
+</p> -->
 
 ---
 
