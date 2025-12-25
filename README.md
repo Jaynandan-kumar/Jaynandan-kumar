@@ -42,7 +42,7 @@
 
 ### ✍️ Random Dev Quote
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Quote](https://www.goodreads.com/quotes/tag/motivational)
 
 ---
 
