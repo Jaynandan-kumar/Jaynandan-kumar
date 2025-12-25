@@ -4,45 +4,65 @@
 
 ---
 
-### 💫 About Me:
+## 💫 About Me
 
 - 👤 I'm **Jaynandan Kumar**
-- 🧑‍🎓 Pursuing **B.Tech in CSE - AI** at **Parul University**
+- 🧑‍🎓 Pursuing **B.Tech in CSE (AI)** at **Parul University**
 - 🍁 Currently learning **Python Full Stack Development**
-- 👯‍♀️ Open to collaboration on **AI-based Projects**
+- 🤖 Interested in **AI / ML & Backend Development**
+- 👯 Open to collaboration on **AI-based & Full Stack projects**
 
 ---
 
-### 🌐 Connect With Me:
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jaynandan777)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jaynandan-kumar)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaynandan777" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Jaynandan-kumar" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 💻 Tech Stack:
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats:
+## 🧰 Tech Toolbox
 
-![Jaynandan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jaynandan-kumar&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynandan-kumar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,bash,powershell,django,flask,mysql,sqlite,vercel,azure,figma,github,arduino" />
+</p>
 
 ---
 
-### ✍️ Random Dev Quote
+## 📊 GitHub Stats
 
-![Quote](https://www.goodreads.com/quotes/tag/motivational)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jaynandan-kumar&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaynandan-kumar&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
+</p>
+
+---
+
+## ✍️ Random Dev Quote
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
@@ -50,40 +70,7 @@
 
 ---
 
-### 💻 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,c++,java,python,html,css,bash,powershell,django,flask,mysql,sqlite,vercel,azure,figma,github,arduino" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaynandan&show_icons=true&theme=tokyonight&border_radius=10" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaynandan&layout=compact&theme=tokyonight&border_radius=10" width="48%"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://www.instagram.com/your_instagram/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="35px"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" width="35px"/>
-  </a>
-  <a href="mailto:jaynandan494@email.com">
-    <img src="https://img.icons8.com/color/48/gmail.png" width="35px"/>
-  </a>
-</p>
-
----
-
-### ✨ Terminal Quote
+## 🖥️ Terminal Quote
 
 ```bash
 // "Code never lies, comments sometimes do."
